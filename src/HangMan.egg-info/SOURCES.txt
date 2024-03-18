@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/HangMan.py
+src/HangMan.egg-info/PKG-INFO
+src/HangMan.egg-info/SOURCES.txt
+src/HangMan.egg-info/dependency_links.txt
+src/HangMan.egg-info/top_level.txt
